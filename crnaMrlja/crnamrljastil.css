@@ -1,0 +1,37 @@
+.button{
+background-repeat: no-repeat;
+  background-size: cover;
+width: 100px;
+height: 100px;
+ padding: 1px 1px;
+ cursor: pointer;
+ margin-bottom: 2px;
+ margin-left: 1px;
+}
+/*#button1{background-image: url('slike/s1.jpg');}
+#button2{background-image: url('slike/s2.jpg');}
+#button3{background-image: url('slike/s3.jpg');}
+#button4{background-image: url('slike/s4.jpg');}
+#button5{background-image: url('slike/s5.jpg');}
+#button6{background-image: url('slike/s6.jpg');}
+
+.prviRed{
+display: inline-block;
+background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('ikonice/button0.png');
+}
+
+.komanda{
+  background-image: url('ikonice/komanda.png');
+}
+
+.zadatak{
+  background-image: url('ikonice/komanda.png');
+}*/
+
+.ram{
+	width: 418px;
+	background-color: black;
+	background-size: cover;
+}
